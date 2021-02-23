@@ -2,27 +2,28 @@
 
 Instalar yarn
 
-    npm install --global yarn
+```shell
+npm install --global yarn
 
-    yarn --version
+yarn --version
+```
 
 ## Criar projeto com typescript
 
 ```shell
-	yarn create react-app moveit --template=typescript
+yarn create react-app moveit --template=typescript
 
-	OU
+OU
 
-	npm create react-app moveit --template=typescript
+npm create react-app moveit --template=typescript
 ```
 
 ## Start na aplicação
 
 ```shell
+yarn start
 
-	yarn start
-
-	http://localhost:3000
+http://localhost:3000
 
 ```
 
