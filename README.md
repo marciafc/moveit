@@ -54,6 +54,10 @@ flex: 1;
 
 Usar font-size
 
+## Next.js
+
+SPA, SSR, SSG
+
 ## Demo
 
 Hospedado no Netlify. Para acessar, clique [aqui](https://goofy-jang-e160ae.netlify.app/)
@@ -65,3 +69,7 @@ Hospedado no Netlify. Para acessar, clique [aqui](https://goofy-jang-e160ae.netl
 [Como instalar o Next.js?](https://segredo.dev/o-que-e-next-js/)
 
 [NPM vs. Yarn: Which Package Manager Should You Choose?](https://www.whitesourcesoftware.com/free-developer-tools/blog/npm-vs-yarn-which-should-you-choose/)
+
+[SPA e SSR: quais as diferenças?](https://www.treinaweb.com.br/blog/spa-e-ssr-quais-as-diferencas/)
+
+[NextJS, Gatsby ou Create React App? Entendendo os conceitos de SSR, SSG e SPA.](https://willianjusten.com.br/nextjs-gatsby-ou-create-react-app-entendendo-os-conceitos-de-ssr-ssg-e-spa/)
