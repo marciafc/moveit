@@ -15,7 +15,7 @@ yarn create react-app moveit --template=typescript
 
 OU
 
-npm create react-app moveit --template=typescript
+npx create-react-app moveit --template=typescript
 ```
 
 ## Start na aplicação
@@ -61,3 +61,7 @@ Hospedado no Netlify. Para acessar, clique [aqui](https://goofy-jang-e160ae.netl
 ## Referências
 
 [Site yarn](https://classic.yarnpkg.com/en/docs/install/#debian-stable)
+
+[Como instalar o Next.js?](https://segredo.dev/o-que-e-next-js/)
+
+[NPM vs. Yarn: Which Package Manager Should You Choose?](https://www.whitesourcesoftware.com/free-developer-tools/blog/npm-vs-yarn-which-should-you-choose/)
